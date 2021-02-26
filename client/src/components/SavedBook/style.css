@@ -1,0 +1,38 @@
+.card {
+    background-color: #f6e58d;
+    border-color: #000000;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.imageStyling {
+    text-align: center;
+}
+
+.bookTitle {
+    text-align: center;
+}
+
+.bookAuthors {
+    text-align: center;
+}
+
+.bookDescription {
+    text-align: left;
+}
+
+.delete {
+    background-color: #3498db;
+    color: #FFFFFF;
+}
+
+.savedBox {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.view {
+    background-color: #3498db;
+    color: #FFFFFF;
+}
